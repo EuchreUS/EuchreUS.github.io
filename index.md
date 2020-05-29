@@ -44,11 +44,11 @@ These are projects that are missing a *single* feature or need some final polish
 * [Swift (Chris J.M.)](http://www.github.com/duck57/Swift-Euchre/)
 
 
-###Stub
+### Stub
 Projets that have been started but are decidedly __not__ feature-complete.
 
-##Not Started
-###Claimed
+## Not Started
+### Claimed
 The purpose of the "Claim" is to let people know that you intend to implement Euchre in a particular language, so they can choose a different one if they're originalily-focused.  You can also make an independent implementation as well.
 
 * M ([Chris J.M.](http://www.github.com/duck57))
@@ -56,7 +56,7 @@ The purpose of the "Claim" is to let people know that you intend to implement Eu
 	* Seems the most diffucult part is getting GT.M set up and playing nicely on Mac OS; please let me know if you've gotten this one working.
 	* If I get GT.M working on my machine, I'll probably put Swift on hold to work on this.  If not, then I'll get Swift mostly complete and move on to Perl, then Haskell.—Chris
 
-###Unclaimed
+### Unclaimed
 Open an issue if you've started a project in one of these languages or if you have another language to suggest for us.
 
 * Ruby
