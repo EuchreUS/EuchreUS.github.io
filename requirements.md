@@ -1,6 +1,6 @@
-#Requirements for Euchre Submission
+# Requirements for Euchre Submission
 
-##Must do
+## Must do
 
 1.	Play a game of bid euchre (below are some likely caveats)
   1. Correctly handle trump (including LoNo and High No calls)
@@ -18,7 +18,7 @@
 4.	Be playable from the command line (unless there's a good reason the specific language shouldn't be run from the command line)
 
 
-##Optional
+## Optional
 1.	AI that are somewhat intelligent in bid and card selection
   * A good card selection algorithm is to play the best card if it will earn you the trick, otherwise play something bad.
   * Bid selection is a tricky process
@@ -29,7 +29,7 @@
   * Standard (single-deck) euchre
   * Six-handed
 
-##Extras
+## Extras
 Unlike the [99 Bottles of Beer project](http://www.99-Bottles-of-Beer.net), there is no reason to have all euchre programs do more or less exactly the same thing.  If a particular language makes it easy to do something, adding extras is encouraged.  Examples of things to do:
 
 * Add a GUI
